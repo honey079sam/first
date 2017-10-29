@@ -5,3 +5,4 @@ print "resolving bug"
 
 
 #ekhh
+ # remove people on emeergency
