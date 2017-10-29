@@ -5,4 +5,4 @@ msg ="afjk"
 
 
 #ekhh
- print msg
+ # remove people on emeergency
